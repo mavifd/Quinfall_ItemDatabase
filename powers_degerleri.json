@@ -1,0 +1,20 @@
+{
+  "count": 15,
+  "entries": [
+    {"id":1,"phy_AP":1,"magic_AP":1,"phy_DP":1,"magic_DP":1,"HP":15,"MP":10,"HP_regen":1,"MP_regen":1,"isabet":3,"kacinma":1,"kritik_sans":0.3,"kritik_defans":0.25},
+    {"id":5,"phy_AP":2,"magic_AP":2,"phy_DP":2,"magic_DP":2,"HP":25,"MP":20,"HP_regen":2,"MP_regen":2,"isabet":3,"kacinma":1,"kritik_sans":0.4,"kritik_defans":0.35},
+    {"id":10,"phy_AP":3,"magic_AP":3,"phy_DP":3,"magic_DP":3,"HP":35,"MP":30,"HP_regen":3,"MP_regen":3,"isabet":4,"kacinma":2,"kritik_sans":0.5,"kritik_defans":0.45},
+    {"id":15,"phy_AP":4,"magic_AP":4,"phy_DP":4,"magic_DP":4,"HP":50,"MP":45,"HP_regen":4,"MP_regen":4,"isabet":4,"kacinma":2,"kritik_sans":0.6,"kritik_defans":0.55},
+    {"id":20,"phy_AP":6,"magic_AP":6,"phy_DP":6,"magic_DP":6,"HP":65,"MP":60,"HP_regen":5,"MP_regen":5,"isabet":5,"kacinma":3,"kritik_sans":0.7,"kritik_defans":0.65},
+    {"id":25,"phy_AP":7,"magic_AP":7,"phy_DP":7,"magic_DP":7,"HP":80,"MP":75,"HP_regen":6,"MP_regen":6,"isabet":5,"kacinma":3,"kritik_sans":0.8,"kritik_defans":0.7},
+    {"id":30,"phy_AP":8,"magic_AP":8,"phy_DP":8,"magic_DP":8,"HP":100,"MP":90,"HP_regen":7,"MP_regen":7,"isabet":6,"kacinma":4,"kritik_sans":0.9,"kritik_defans":0.8},
+    {"id":35,"phy_AP":9,"magic_AP":9,"phy_DP":9,"magic_DP":9,"HP":120,"MP":110,"HP_regen":8,"MP_regen":8,"isabet":6,"kacinma":4,"kritik_sans":0.9,"kritik_defans":0.8},
+    {"id":40,"phy_AP":11,"magic_AP":11,"phy_DP":11,"magic_DP":11,"HP":150,"MP":130,"HP_regen":9,"MP_regen":9,"isabet":7,"kacinma":5,"kritik_sans":1,"kritik_defans":0.9},
+    {"id":45,"phy_AP":13,"magic_AP":13,"phy_DP":13,"magic_DP":13,"HP":180,"MP":150,"HP_regen":10,"MP_regen":10,"isabet":7,"kacinma":5,"kritik_sans":1,"kritik_defans":0.9},
+    {"id":50,"phy_AP":16,"magic_AP":16,"phy_DP":16,"magic_DP":16,"HP":220,"MP":180,"HP_regen":11,"MP_regen":11,"isabet":8,"kacinma":6,"kritik_sans":1,"kritik_defans":0.9},
+    {"id":60,"phy_AP":21,"magic_AP":21,"phy_DP":21,"magic_DP":21,"HP":270,"MP":210,"HP_regen":12,"MP_regen":12,"isabet":8,"kacinma":6,"kritik_sans":1.1,"kritik_defans":0.9},
+    {"id":75,"phy_AP":26,"magic_AP":26,"phy_DP":26,"magic_DP":26,"HP":330,"MP":250,"HP_regen":13,"MP_regen":13,"isabet":9,"kacinma":7,"kritik_sans":1.2,"kritik_defans":1},
+    {"id":100,"phy_AP":32,"magic_AP":32,"phy_DP":32,"magic_DP":32,"HP":400,"MP":300,"HP_regen":14,"MP_regen":14,"isabet":9,"kacinma":7,"kritik_sans":1.3,"kritik_defans":1},
+    {"id":110,"phy_AP":38,"magic_AP":38,"phy_DP":38,"magic_DP":38,"HP":480,"MP":350,"HP_regen":15,"MP_regen":15,"isabet":9,"kacinma":7,"kritik_sans":1.3,"kritik_defans":1}
+  ]
+}

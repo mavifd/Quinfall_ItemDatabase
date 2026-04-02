@@ -1,0 +1,25 @@
+{
+  "count": 20,
+  "entries": [
+    {"odul_adi":"2_8","coin":100000000,"exp":500,"item_1":"36604_0030","item_2":"36614_0030","item_3":"36624_0030","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"2_7","coin":110000000,"exp":570,"item_1":"36604_0032","item_2":"36614_0032","item_3":"36624_0032","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"2_6","coin":120000000,"exp":650,"item_1":"36604_0034","item_2":"36614_0034","item_3":"36624_0034","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"2_5","coin":130000000,"exp":720,"item_1":"36604_0036","item_2":"36614_0036","item_3":"36624_0036","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"2_4","coin":140000000,"exp":800,"item_1":"36604_0038","item_2":"36614_0038","item_3":"36624_0038","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"2_3","coin":150000000,"exp":870,"item_1":"36604_0040","item_2":"36614_0040","item_3":"36624_0040","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"2_2","coin":160000000,"exp":940,"item_1":"36604_0042","item_2":"36614_0042","item_3":"36624_0042","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"2_1","coin":200000000,"exp":1000,"item_1":"36604_0044","item_2":"36614_0044","item_3":"36624_0044","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"3_6","coin":300000000,"exp":2000,"item_1":"36604_0060","item_2":"36614_0060","item_3":"36624_0060","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"3_5","coin":330000000,"exp":2300,"item_1":"36604_0062","item_2":"36614_0062","item_3":"36624_0062","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"3_4","coin":360000000,"exp":2600,"item_1":"36604_0064","item_2":"36614_0064","item_3":"36624_0064","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"3_3","coin":390000000,"exp":3000,"item_1":"36604_0066","item_2":"36614_0066","item_3":"36624_0066","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"3_2","coin":420000000,"exp":3500,"item_1":"36604_0068","item_2":"36614_0068","item_3":"36624_0068","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"3_1","coin":500000000,"exp":4000,"item_1":"36604_0070","item_2":"36614_0070","item_3":"36624_0070","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"4_4","coin":700000000,"exp":5000,"item_1":"36604_0082","item_2":"36614_0082","item_3":"36624_0082","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"4_3","coin":760000000,"exp":5700,"item_1":"36604_0084","item_2":"36614_0084","item_3":"36624_0084","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"4_2","coin":820000000,"exp":6400,"item_1":"36604_0086","item_2":"36614_0086","item_3":"36624_0086","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"4_1","coin":900000000,"exp":7000,"item_1":"36604_0088","item_2":"36614_0088","item_3":"36624_0088","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"5_2","coin":1100000000,"exp":8200,"item_1":"36604_0100","item_2":"36614_0100","item_3":"36624_0100","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null},
+    {"odul_adi":"5_1","coin":1600000000,"exp":10000,"item_1":"36604_0102","item_2":"36614_0102","item_3":"36624_0102","item_4":null,"item_5":null,"item_6":null,"item_7":null,"item_8":null,"item_9":null,"item_10":null,"item_11":null,"item_12":null}
+  ]
+}

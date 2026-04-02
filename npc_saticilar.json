@@ -1,0 +1,28 @@
+{
+  "count": 23,
+  "entries": [
+    {"meslek_no":4,"item_id":"35001_0001"},
+    {"meslek_no":4,"item_id":"35501_0001"},
+    {"meslek_no":6,"item_id":"11401_0001"},
+    {"meslek_no":7,"item_id":"11421_0001"},
+    {"meslek_no":7,"item_id":"11741_0001"},
+    {"meslek_no":7,"item_id":"E011_0000000000_0_0_000_00_0000"},
+    {"meslek_no":7,"item_id":"E021_0000000000_0_0_000_00_0000"},
+    {"meslek_no":7,"item_id":"E031_0000000000_0_0_000_00_0000"},
+    {"meslek_no":9,"item_id":"11451_0001"},
+    {"meslek_no":9,"item_id":"11452_0001"},
+    {"meslek_no":9,"item_id":"11453_0001"},
+    {"meslek_no":9,"item_id":"11454_0001"},
+    {"meslek_no":9,"item_id":"11455_0001"},
+    {"meslek_no":50,"item_id":"20001_0001"},
+    {"meslek_no":50,"item_id":"20002_0001"},
+    {"meslek_no":50,"item_id":"20003_0001"},
+    {"meslek_no":50,"item_id":"20004_0001"},
+    {"meslek_no":50,"item_id":"20005_0001"},
+    {"meslek_no":50,"item_id":"20101_0001"},
+    {"meslek_no":50,"item_id":"20102_0001"},
+    {"meslek_no":50,"item_id":"20103_0001"},
+    {"meslek_no":50,"item_id":"20104_0001"},
+    {"meslek_no":50,"item_id":"20105_0001"}
+  ]
+}
