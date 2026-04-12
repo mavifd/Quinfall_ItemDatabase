@@ -1,5 +1,5 @@
 {
-  "count": 282,
+  "count": 283,
   "entries": [
     {"skill_id":"S10101","skill_adi":410101,"skill_seviye":1,"skill_saniye":9,"skill_harcadigi_enerji":110,"skill_aciklama":4101010,"skill_aktif":1,"skill_array_index":1},
     {"skill_id":"S10102","skill_adi":410102,"skill_seviye":2,"skill_saniye":8,"skill_harcadigi_enerji":124,"skill_aciklama":4101020,"skill_aktif":1,"skill_array_index":2},
@@ -49,7 +49,7 @@
     {"skill_id":"S10710","skill_adi":410710,"skill_seviye":10,"skill_saniye":12,"skill_harcadigi_enerji":270,"skill_aciklama":4107100,"skill_aktif":1,"skill_array_index":46},
     {"skill_id":"S10711","skill_adi":410711,"skill_seviye":11,"skill_saniye":75,"skill_harcadigi_enerji":516,"skill_aciklama":4107110,"skill_aktif":1,"skill_array_index":47},
     {"skill_id":"S10712","skill_adi":410712,"skill_seviye":12,"skill_saniye":75,"skill_harcadigi_enerji":474,"skill_aciklama":4107120,"skill_aktif":1,"skill_array_index":48},
-    {"skill_id":"S10901","skill_adi":410901,"skill_seviye":1,"skill_saniye":27,"skill_harcadigi_enerji":185,"skill_aciklama":4109010,"skill_aktif":1,"skill_array_index":49},
+    {"skill_id":"S10901","skill_adi":410901,"skill_seviye":1,"skill_saniye":24,"skill_harcadigi_enerji":185,"skill_aciklama":4109010,"skill_aktif":1,"skill_array_index":49},
     {"skill_id":"S10902","skill_adi":410902,"skill_seviye":2,"skill_saniye":7,"skill_harcadigi_enerji":196,"skill_aciklama":4109020,"skill_aktif":1,"skill_array_index":50},
     {"skill_id":"S10903","skill_adi":410903,"skill_seviye":3,"skill_saniye":9,"skill_harcadigi_enerji":144,"skill_aciklama":4109030,"skill_aktif":1,"skill_array_index":51},
     {"skill_id":"S10904","skill_adi":410904,"skill_seviye":4,"skill_saniye":14,"skill_harcadigi_enerji":150,"skill_aciklama":4109040,"skill_aktif":1,"skill_array_index":52},
@@ -173,6 +173,7 @@
     {"skill_id":"S117111","skill_adi":411711,"skill_seviye":0,"skill_saniye":0,"skill_harcadigi_enerji":0,"skill_aciklama":4117111,"skill_aktif":4,"skill_array_index":0},
     {"skill_id":"S117112","skill_adi":411711,"skill_seviye":0,"skill_saniye":0,"skill_harcadigi_enerji":0,"skill_aciklama":4117112,"skill_aktif":4,"skill_array_index":0},
     {"skill_id":"S117113","skill_adi":411711,"skill_seviye":0,"skill_saniye":0,"skill_harcadigi_enerji":0,"skill_aciklama":4117113,"skill_aktif":4,"skill_array_index":0},
+    {"skill_id":"S117121","skill_adi":411712,"skill_seviye":0,"skill_saniye":0,"skill_harcadigi_enerji":0,"skill_aciklama":4117121,"skill_aktif":3,"skill_array_index":0},
     {"skill_id":"S119041","skill_adi":411904,"skill_seviye":0,"skill_saniye":0,"skill_harcadigi_enerji":0,"skill_aciklama":4119041,"skill_aktif":4,"skill_array_index":0},
     {"skill_id":"S119071","skill_adi":411907,"skill_seviye":0,"skill_saniye":0,"skill_harcadigi_enerji":0,"skill_aciklama":4119071,"skill_aktif":4,"skill_array_index":0},
     {"skill_id":"S119081","skill_adi":411908,"skill_seviye":0,"skill_saniye":0,"skill_harcadigi_enerji":0,"skill_aciklama":4119081,"skill_aktif":4,"skill_array_index":0},
