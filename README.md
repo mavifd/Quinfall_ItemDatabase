@@ -46,5 +46,5 @@ This directory contains all `loc` references and matches them with JSON definiti
 
 ## 📌 Sürüm / Version
 
-The Quinfall - Patch **v1.0.0.24** sürümü için geçerlidir.  
-Valid for The Quinfall - Patch **v1.0.0.24**.
+The Quinfall - Patch **v1.0.0.25** sürümü için geçerlidir.  
+Valid for The Quinfall - Patch **v1.0.0.25**.
